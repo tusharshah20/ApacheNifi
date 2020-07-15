@@ -1,2 +1,0 @@
-These processors deal with the HTTP and HTTPS calls. Some of the processors that belong to this category 
-are InvokeHTTP, PostHTTP, ListenHTTP, etc.
